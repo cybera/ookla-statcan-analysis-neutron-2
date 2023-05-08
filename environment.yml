@@ -1,4 +1,4 @@
-name: ookla-statcan-test
+name: ookla-statcan
 channels: 
   - conda-forge
   - defaults
