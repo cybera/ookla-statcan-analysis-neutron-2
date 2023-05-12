@@ -140,3 +140,6 @@ the App will stop running. There's a few deployment options listed in the
 The output data for the streamlit app can be downloaded [here](https://swift-yyc.cloud.cybera.ca:8080/v1/AUTH_233e84cd313945c992b4b585f7b9125d/ookla-statcan-analysis/LastFourQuartersOrBestEstimate_On_DissolvedSmallerCitiesHexes.gpkg) on RAC 
 object storage. The binary geopackage file 
 must be place in the folder indicated above in the data directory. 
+
+
+For the `Clustering Region Types` and `Population-wise Analysis` Streamlit pages, run `notebooks/ClusterDivisionTypes.ipynb` to generate the pickle files used by the Streamlit pages.   
